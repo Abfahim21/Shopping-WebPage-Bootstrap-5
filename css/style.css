@@ -21,3 +21,13 @@
     margin-left: 120px;
     margin-top: 50px;
 }
+
+.companies {
+    background-color: #EBD96B;
+}
+
+.companies .row .col-xxl-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
