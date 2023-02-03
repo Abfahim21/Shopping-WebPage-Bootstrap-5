@@ -29,5 +29,7 @@
 .companies .row .col-xxl-2 {
     display: flex;
     justify-content: space-around;
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 
