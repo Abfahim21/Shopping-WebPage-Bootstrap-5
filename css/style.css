@@ -61,4 +61,16 @@ section.community {
     text-align: center;
 }
 
+section.community h2 {
+    padding-top: 100px;
+    font-weight: 900;
+    font-size: 55px;
+    letter-spacing: 0.03em;
+    line-height: 1.2;
+}
 
+section.community p{
+    font-weight: 200;
+    font-size: 25px;
+    letter-spacing: 0.03em;
+}
