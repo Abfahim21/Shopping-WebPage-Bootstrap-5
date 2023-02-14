@@ -49,6 +49,7 @@ section.download-app .row.d-flex .col-xxl-6 h3 {
 }
 
 section.download-app .row.d-flex .col-xxl-6 p  {
+    color: rgba(124, 124, 124, 1);
     font-weight: 500;
     font-size: 24px;
     letter-spacing: -0.04em;
