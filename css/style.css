@@ -55,3 +55,10 @@ section.download-app .row.d-flex .col-xxl-6 p  {
     letter-spacing: -0.04em;
 }
 
+section.community {
+    color: white;
+    background: #E5C643;
+    text-align: center;
+}
+
+
